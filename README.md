@@ -1,11 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,100:1f8f5f&height=200&section=header&text=Stanislav%20MfontColor=ffffff&fontSize=46&fontAlignY=36&desc=SecOps%20%C2%B7%20Threat%20Research%20%C2%B7%20Founder%20of%20PALANIT&descSize=16&descAlignY=58" alt="Stanislav M — SecOps, Threat Research, Founder of PALANIT" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,100:1f8f5f&height=200&section=header&text=Stanislav%20Miziyev&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=SecOps%20%C2%B7%20Threat%20Research%20%C2%B7%20Founder%20of%20PALANIT&descSize=16&descAlignY=58" alt="Stanislav Miziyev — SecOps, Threat Research, Founder of PALANIT" />
 </p>
 
 <p align="center">
   <a href="https://palanit.com"><img src="https://img.shields.io/badge/PALANIT-Founder-1f8f5f?style=for-the-badge&labelColor=0b0a10" alt="Founder of PALANIT" /></a>
   <img src="https://img.shields.io/badge/SecOps-%26%20Threat%20Research-c9d1d9?style=for-the-badge&labelColor=0b0a10" alt="SecOps & Threat Research" />
   <img src="https://img.shields.io/badge/Focus-AI--agent%20%2F%20MCP%20security-f6c768?style=for-the-badge&labelColor=0b0a10" alt="Focus: AI-agent / MCP security" />
+</p>
+
+<p align="center">
+  <a href="https://palanit.com"><img src="https://img.shields.io/badge/Visit-palanit.com-1f8f5f?style=for-the-badge&labelColor=0b0a10" alt="Visit palanit.com" /></a>
+  <a href="https://palanit.com/security-check"><img src="https://img.shields.io/badge/Scan%20your%20site-f6c768?style=for-the-badge&labelColor=0b0a10" alt="Scan your site" /></a>
+  <a href="https://github.com/marketplace/actions/palanit-security-check"><img src="https://img.shields.io/badge/GitHub-Action-0b0a10?style=for-the-badge&logo=githubactions&logoColor=white" alt="PALANIT GitHub Action" /></a>
 </p>
 
 ---
