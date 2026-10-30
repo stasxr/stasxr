@@ -54,8 +54,9 @@ I build security tooling for the AI-agent era — scanners that read what an age
 ### 📊 GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stasxr&show_icons=true&hide_border=true&theme=dark&bg_color=0b0a10&title_color=1f8f5f&icon_color=f6c768&text_color=c9d1d9" alt="Stanislav's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasxr&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0b0a10&title_color=1f8f5f&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/stasxr?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0a10&color=1f8f5f&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/stasxr/palanit-core?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0a10&color=f6c768&label=palanit-core%20%E2%98%85" alt="palanit-core stars" />
+  <img src="https://img.shields.io/github/stars/stasxr/palanit-action?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0a10&color=f6c768&label=palanit-action%20%E2%98%85" alt="palanit-action stars" />
 </p>
 
 ---
