@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,100:1f8f5f&height=200&section=header&text=Stanislav%20M&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=SecOps%20%C2%B7%20Threat%20Research%20%C2%B7%20Founder%20of%20PALANIT&descSize=16&descAlignY=60" alt="Stanislav M — SecOps, Threat Research, Founder of PALANIT" />
+  <img src="banner.svg" width="100%" alt="Stanislav M — SecOps, Threat Research, Founder of PALANIT" />
 </p>
 
 <p align="center">
