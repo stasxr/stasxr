@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,100:1f8f5f&height=200&section=header&text=Stanislav%20Miziyev&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=SecOps%20%C2%B7%20Threat%20Research%20%C2%B7%20Founder%20of%20PALANIT&descSize=16&descAlignY=58" alt="Stanislav Miziyev — SecOps, Threat Research, Founder of PALANIT" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,100:1f8f5f&height=130&section=header" alt="" />
 </p>
+
+<h1 align="center">Stanislav&nbsp;Miziyev</h1>
+<p align="center"><b>SecOps · Threat Research · Founder of <a href="https://palanit.com">PALANIT</a></b></p>
 
 <p align="center">
   <a href="https://palanit.com"><img src="https://img.shields.io/badge/PALANIT-Founder-1f8f5f?style=for-the-badge&labelColor=0b0a10" alt="Founder of PALANIT" /></a>
